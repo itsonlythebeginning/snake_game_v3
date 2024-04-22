@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: normal;
+  text-align: center;
+  color: black;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+.h1-title {
+  margin-bottom: 20px;
+}
+
+#board {
+  border: 5px solid darkblue;
+}
+
+/*# sourceMappingURL=style.css.map */
